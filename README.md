@@ -6,7 +6,7 @@ Exercícios básicos de **Java** feitos durante os estudos da linguagem. Cada ar
 | --- | --- |
 | `PrimeiroPasso.java` | Primeiro programa |
 | `Variaveis.java` | Variáveis e tipos de dados |
-| `Decisoes.java` | Estruturas de decisão (`if`/`else`, `switch`) |
+| `Decisoes.java` | Estruturas de decisão (`if`/`else`) |
 | `Repeticoes.java` | Laços de repetição (`for`, `while`) |
 | `Arrays.java` | Arrays |
 | `ListaCursos.java` | `ArrayList`: adicionar, remover e percorrer com for-each |
